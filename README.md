@@ -1,26 +1,31 @@
 # apprentissage-node
 
-![Node.js CI](https://github.com/ComteZero/apprentissage-node/workflows/Node.js%20CI/badge.svg?branch=master)
+![master](https://github.com/ComteZero/apprentissage-node/workflows/Node.js%20CI/badge.svg?branch=master)
 
-![Node.js CI](https://github.com/ComteZero/apprentissage-node/workflows/Node.js%20CI/badge.svg?branch=develop)
+![develop](https://github.com/ComteZero/apprentissage-node/workflows/Node.js%20CI/badge.svg?branch=develop)
 
-projet d'apprentissage node
+projet d'apprentissage node + github
 
-adhérence à un backend géré par une variable d'environnement
+## presentation
 
-APPRENTISSAGE_BACKEND=http://url:port
+quelle lib pour le js ? react+
 
-## react/ts
+## service
 
-## nginx-rp
+service rendu par une image docker nginx
+pour adresser une problématique x-site
 
 ### static
 
-### cdn
+dist/ dans /var/www
 
-pour adresser une problématique x-site
+distribution dans cdn ?
 
 ### backend
+
+adhérence à un backend gérée par une variable d'environnement
+
+APPRENTISSAGE_BACKEND=http://url:port
 
 authn user génér par le back-end
 
