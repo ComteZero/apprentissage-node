@@ -2,7 +2,7 @@
   "name": "apprentissage-node",
   "version": "1.0.0",
   "description": "projet d'apprentissage node",
-  "main": "dist/index.js","displayName": "",
+  "main": "dist/index.js","displayName": "Apprentissage Node",
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslint": "^6.1.2",

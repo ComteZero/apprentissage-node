@@ -31,3 +31,7 @@ authn user génér par le back-end
 
 - session partagée ?
 - sso?
+
+## contributing
+
+<https://www.conventionalcommits.org/en/v1.0.0/>
