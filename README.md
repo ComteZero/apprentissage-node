@@ -1,5 +1,9 @@
 # apprentissage-node
 
+![Node.js CI](https://github.com/ComteZero/apprentissage-node/workflows/Node.js%20CI/badge.svg?branch=master)
+
+![Node.js CI](https://github.com/ComteZero/apprentissage-node/workflows/Node.js%20CI/badge.svg?branch=develop)
+
 projet d'apprentissage node
 
 adhérence à un backend géré par une variable d'environnement
