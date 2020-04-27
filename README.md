@@ -35,3 +35,11 @@ authn user génér par le back-end
 ## contributing
 
 <https://www.conventionalcommits.org/en/v1.0.0/>
+
+## releasing
+
+<https://itnext.io/how-to-automate-versioning-and-publication-of-an-npm-package-233e8757a526>
+
+Trigger a release
+
+Once a commit reaches master, to perform a release just needs one command: npm run release
