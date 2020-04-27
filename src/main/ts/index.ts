@@ -1,5 +1,3 @@
-const world = '🗺️';
+import hello = require('./hello');
 
-export function hello(word: string = world): string {
-  return `Hello ${world}! `;
-}
+console.log(hello.hello('Dave'));
